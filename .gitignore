@@ -1,0 +1,6 @@
+node_modules
+dist
+package-lock.json
+dist/client/client.js
+dist/server/server.js
+.DS_Store
